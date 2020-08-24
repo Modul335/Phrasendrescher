@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="einleitung">
+        <item>Wir brauchen eine</item>
+        <item>Wichtig wäre eine</item>
+        <item>Das einzige, was hilft, ist eine</item>
+        <item>Allerdings wäre da noch die</item>
+        <item>Ich empfehle Ihnen eine</item>
+        <item>Es ist aber nicht allein die</item>
+        <item>Es geht nicht mehr ohne</item>
+        <item>Unabdingbar ist auch die</item>
+        <item>Als unverzichtbar zeigt sich die</item>
+        <item>Heutzutage benötigen wir eine</item>
+        <item>Unsere Generation verlangt eine</item>
+        <item>Die Devise heißt</item>
+        <item>Das Ziel heißt ganz klar:</item>
+        <item>Als erstes kommt die</item>
+        <item>Die Gesellschaft verlangt eine</item>
+        <item>Die Wirtschaft verlangt eine</item>
+        <item>Wir garantieren für</item>
+    </string-array>
+    
+    <string-array name="adjektive">
+        <item>progressive</item>
+        <item>kooperative</item>
+        <item>allgemeine</item>
+        <item>reziproke</item>
+        <item>proportionale</item>
+        <item>integrative</item>
+        <item>permanente</item>
+        <item>konzentrierte</item>
+        <item>systematische</item>
+        <item>ambivalente</item>
+        <item>funktionelle</item>
+        <item>asynchrone</item>
+        <item>synchronisierte</item>
+        <item>koordinierte</item>
+        <item>generelle</item>
+        <item>qualifizierte</item>
+        <item>gewinnorientierte</item>
+        <item>nutzenmaximierte</item>
+        <item>normierte</item>
+        <item>strategische</item>
+        <item>personifizierte</item>
+        <item>aufgeschlossene</item>
+        <item>ausgelassene</item>
+    </string-array>
+    
+    <string-array name="substantive1">
+        <item>Marketing-</item>
+        <item>Wachstums-</item>
+        <item>Führungs-</item>
+        <item>Nachfolge-</item>
+        <item>Moral-</item>
+        <item>Organisations-</item>
+        <item>Übergangs-</item>
+        <item>Aktions-</item>
+        <item>Integritäts-</item>
+        <item>Plausibilitäts-</item>
+        <item>Ratifizierungs-</item>
+        <item>Integrations-</item>
+        <item>Identifikations-</item>
+        <item>Fluktuations-</item>
+        <item>Politik-</item>
+        <item>Betroffenheits-</item>
+        <item>Aufgeschlossenheits-</item>
+        <item>Koalitions-</item>
+        <item>New-Age</item>
+        <item>New-Media-</item>
+        <item>Cloud-</item>
+        <item>Social-</item>
+        <item>Bildungs-</item>
+        <item>Motivations-</item>
+        <item>Meditations-</item>
+    </string-array>
+    
+    <string-array name="substantive2">
+        <item>Debatte</item>
+        <item>Problematik</item>
+        <item>Konsolidierung</item>
+        <item>Konzeption</item>
+        <item>Phase</item>
+        <item>Diskussion</item>
+        <item>Kontingenz</item>
+        <item>Tendenz</item>
+        <item>Relevanz</item>
+        <item>Dominanz</item>
+        <item>Flexibilität</item>
+        <item>Verallgemeinerung</item>
+        <item>Netzwerk</item>
+        <item>Perzeption</item>
+        <item>Unvoreingenommenheit</item>
+        <item>Ratifizierung</item>
+        <item>Personifizierung</item>
+        <item>Struktur</item>
+        <item>Utopie</item>
+        <item>Modifikation</item>
+        <item>Aufgeschlossenheit</item>
+        <item>Permanenz</item>
+        <item>Signifikanz</item>
+    </string-array>
+</resources>

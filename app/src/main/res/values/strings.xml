@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Mit dem Phrasendrescher werden Sie zum Star jeder Party, weil Sie immer etwas toll Klingendes zu sagen haben. Nichts unterbricht eine peinliche Stille so effizient wie eine geschickt gedroschene Phrase!</string>
+    <string name="app_name">Phrasendrescher</string>
+    <string name="txt_optionsauswahl">Bitte wählen Sie, ob Sie die Phrase selbst dreschen oder lieber den Zufall eine Phrase dreschen lassen wollen.</string>
+    <string name="txt_label_selbst_dreschen">Selbst dreschen</string>
+    <string name="txt_selbst_dreschen">Legen Sie selbst Hand an und generieren Sie sich Ihre Lieblingsphrase, indem Sie die Satzteile beliebig miteinander kombinieren. Tippen Sie auf einen Satzteil, um Ihn auszutauschen.</string>
+    <string name="txt_label_dreschen_lassen">Dreschen lassen</string>
+    <string name="txt_dreschen_lassen">Lassen Sie sich vom Zufall überraschen und beeindrucken Sie Freunde und Bekannte mit Ihrer Formulierungskunst! (Sie können Ihr Gerät auch schütteln)</string>
+    <string name="txt_dreschen_lassen_text1">Der Zufall bringt</string>
+    <string name="txt_dreschen_lassen_text2">ungeahnte</string>
+    <string name="txt_dreschen_lassen_text3">Phrasen-</string>
+    <string name="txt_dreschen_lassen_text4">Vielfalt</string>
+    <string name="btn_selbst_dreschen">selbst dreschen</string>
+    <string name="btn_dreschen_lassen">dreschen lassen</string>
+    <string name="btn_phrase_dreschen">Phrase dreschen</string>
+    <string name="txt_ganzer_satz">&lt;Hier wird der ganze Satz angezeigt.></string>
+
+</resources>
